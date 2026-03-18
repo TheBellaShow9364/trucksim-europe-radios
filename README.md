@@ -1,9 +1,6 @@
 # 🚛 TruckSim Europe Radios 🎵 
 
-![Version](https://img.shields.io/badge/version-0.1--beta-orange)
-![ETS2](https://img.shields.io/badge/ETS2-compatible-green)  
-![ATS](https://img.shields.io/badge/ATS-compatible-green)  
-![Language](https://img.shields.io/badge/radios-FR-blue)
+![Version](https://img.shields.io/badge/version-0.1--beta-orange) ![ETS2](https://img.shields.io/badge/ETS2-compatible-green)  ![ATS](https://img.shields.io/badge/ATS-compatible-green)  ![Language](https://img.shields.io/badge/radios-FR-blue)
 
 **TruckSim Europe Radios** est une collection de stations radio françaises pour :
 
