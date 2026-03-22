@@ -13,6 +13,10 @@
 
 👉 **Version actuelle : v0.1 (bêta)**  
 [Télécharger la dernière version](https://github.com/TheBellaShow9364/trucksim-europe-radios/releases/latest)
+
+👉 **Version actuelle : v0.2 (bêta)
+En cours de développement (Pas disponible pour le moment)
+
 ---
 
 ## 🛠️ Installation
